@@ -1,2 +1,2 @@
 # CODECRAFT_GA_03
-Implemented a Markov Chain text generator using an external dataset. The model predicts the next word based on learned probabilities and generates new text sequences.
+A Markov Chain text generator is implemented to produce new text based on word transition probabilities learned from input data. The model uses randomness to predict the next word, generating sentences that resemble the original text structure.
